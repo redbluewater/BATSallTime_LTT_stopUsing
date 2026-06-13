@@ -3,6 +3,8 @@ Want BV calculation from CTD casts through all time at BATS; use 2db resolution 
 Krista Longnecker, 4 April 2025\
 Krista Longnecker, 10 April 2025
 
+### break fork and work on the version in BIOS-SCOPE GitHub space 12 June 2026 
+
 ### Some details:
 This was done in MATLAB in order to best use Ruth Curry's code organizing the BATS CTD data and for making calculations of BV frequency (using the SEAWATER library from CSIRO). 
 
